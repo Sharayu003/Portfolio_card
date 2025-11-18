@@ -11,5 +11,5 @@ A simple and elegant portfolio card built using **React.js**, showcasing modern 
 ---
 
 ## 📸 Preview
-(Add your project screenshot here)
+<img width="447" height="822" alt="image" src="https://github.com/user-attachments/assets/9ba58458-1936-478d-8877-2d361f610a2d" />
 
