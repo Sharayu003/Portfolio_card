@@ -1,1 +1,1 @@
-Deployed Link: https://portfoliocard-git-main-sharayu-yeoles-projects.vercel.app/
+Deployed Link: https://portfolio-card-react.netlify.app/
